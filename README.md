@@ -1,6 +1,6 @@
 # dio-azure-overview
 
-#### Sobre a Azure
+### Sobre a Azure
 
 - Plataforma que oferece tecnologia, em forma de serviços e produtos, pela internet.
 
